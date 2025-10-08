@@ -1,0 +1,22 @@
+# APK files (too large for git, should be in releases)
+*.apk
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Local testing
+test_config.json
+local_*.json
