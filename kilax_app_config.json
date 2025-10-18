@@ -22,7 +22,7 @@
     "enable_premium_features": true
   },
   "maintenance_mode": {
-    "enabled": false,
+    "enabled": true,
     "message": "Kilax is currently undergoing maintenance. Please check back soon!",
     "scheduled_end_time": ""
   },
