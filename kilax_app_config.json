@@ -1,16 +1,17 @@
 {
-  "latest_version": "8.0.0",
-  "latest_build_number": 2,
+  "latest_version": "3.0.2",
+  "latest_build_number": 5,
   "force_update": true,
   "update_message": "A new version of Kilax is available with exciting features and improvements!",
-  "download_url": "https://github.com/Jassim-hub/Kilax-app-updates/releases/download/v8.0.0/kilax-v8.0.0.apk",
+  "download_url": "https://github.com/Jassim-hub/Kilax-app-updates/releases/download/v3.0.2/kilax-v3.0.2.apk",
   "release_notes": [
-    "🎬 Enhanced streaming experience",
+    "🎬 Fixed video playback authentication issues",
+    "📥 Fixed download authentication with correct credentials",
+    "🔔 Added system notifications for downloads",
     "🐛 Bug fixes and performance improvements",
-    "✨ UI/UX enhancements",
-    "🔒 Security updates"
+    "✨ UI/UX enhancements"
   ],
-  "minimum_supported_version": "8.0.0",
+  "minimum_supported_version": "3.0.0",
   "minimum_supported_build": 1,
   "app_variant": {
     "type": "streaming",
@@ -38,5 +39,5 @@
     "cdn_url": "https://cdn.kilax.com"
   },
   "update_check_interval_hours": 24,
-  "last_updated": "2025-10-08T00:00:00Z"
+  "last_updated": "2025-11-04T00:00:00Z"
 }
