@@ -23,10 +23,12 @@
     "enable_premium_features": true
   },
   "maintenance_mode": {
-    "enabled": false,
+    "enabled": true,
+    "app_version": "3.0.15",
     "message": "Kilax is currently undergoing maintenance. Please check back soon!",
     "scheduled_end_time": ""
-  },
+  }
+,
   "feature_flags": {
     "enable_chromecast": true,
     "enable_social_sharing": true,
