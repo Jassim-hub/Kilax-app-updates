@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.0.8",
-  "latest_build_number": 8,
+  "latest_version": "3.0.17",
+  "latest_build_number": 19,
   "force_update": false,
   "update_message": "A new version of Kilax is available with exciting features and improvements!",
   "download_url": "mytime.mlegacytv.com/Apk/app-kilax-release.apk",
@@ -23,8 +23,8 @@
     "enable_premium_features": true
   },
   "maintenance_mode": {
-    "enabled": false,
-    "app_version": "3.0.16",
+    "enabled": true,
+    "app_version": "3.0.17",
     "message": "Kilax is currently undergoing maintenance. Please check back soon!",
     "scheduled_end_time": ""
   }
